@@ -1,0 +1,25 @@
+{
+  "name": "whereiam",
+  "version": "1.0.0",
+  "description": "npm library for cross-browsing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanhyukPark-Tech/whereiam.git"
+  },
+  "keywords": [
+    "isSafari",
+    "isBrowser",
+    "cross",
+    "browser"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChanhyukPark-Tech/whereiam/issues"
+  },
+  "homepage": "https://github.com/ChanhyukPark-Tech/whereiam#readme"
+}
