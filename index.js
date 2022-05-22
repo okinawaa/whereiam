@@ -1,4 +1,4 @@
-exports.getBrowserName = function () {
+const getBrowserName = () => {
   let userAgent = navigator.userAgent;
   let browser = "";
   if (userAgent.match(/edg/i)) {
@@ -16,3 +16,4 @@ exports.getBrowserName = function () {
   }
   return browser;
 };
+export default getBrowserName;

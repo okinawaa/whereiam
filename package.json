@@ -1,7 +1,7 @@
 {
   "name": "whereiam",
-  "version": "1.0.0",
-  "description": "npm library for cross-browsing",
+  "version": "0.0.6",
+  "description": "npm library for check which browser you are in",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
     "cross",
     "browser"
   ],
-  "author": "",
+  "author": "chanhyuk park",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ChanhyukPark-Tech/whereiam/issues"
