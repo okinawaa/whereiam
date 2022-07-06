@@ -17,7 +17,7 @@ yarn global add whereiam
 
 ```bash
 # using npm
-npm install -g whereiam
+npm install whereiam
 ```
 
 Note: add --save if you are using npm < 5.0.0
