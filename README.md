@@ -12,7 +12,7 @@ It is used to detect browsers in cross-browsing operations while developing the 
 
 ```bash
 # using yarn
-yarn global add whereiam
+yarn add whereiam
 ```
 
 ```bash
